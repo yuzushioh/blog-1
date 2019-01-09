@@ -1,1 +1,2 @@
-# blog
+- BlogのGithub pageを管理するRepositoryです。
+  - [Yamotty](https://yamotty.github.com)
