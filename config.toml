@@ -1,0 +1,6 @@
+baseURL = "https://Yamotty.github.io"
+languageCode = "en-us"
+title = "Yamotty"
+publishDir = "public"  # 公開ファイルのディレクトリ名
+theme= "tale-hugo" # 使用するテーマ名
+hasCJKLanguage = true # 記事のサマリー機能を有効にする。trueにしないと記事サマリーの文章量が大きくなりすぎる。
