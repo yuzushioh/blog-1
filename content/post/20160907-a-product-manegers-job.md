@@ -1,12 +1,14 @@
 ---
-title: "A Product Manager’s Job"
+title: "A Product Manager’s Job(翻訳)"
 date: 2016-09-07T04:36:52+09:00
 draft: false
 ---
 
-この記事は2013年7月にMediumへ投稿されたGraylockのパートナーであるJoshによる「[A Product Manager's Job](http://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/Product)」の翻訳記事です。
+この記事は2013年7月にMediumへ投稿されたGraylockのパートナーであるJoshによる「A Product Manager's Job」の翻訳記事です。
 
-Joshのプロフィールは以下。
+<!--more-->
+
+翻訳記事は[こちら]](http://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/Product)。また著者、Joshのプロフィールは以下。
 
 > Guy. I have worked on Twitter, Facebook Connect, Zazzle, LinkedIn, RealPlayer. Partner at Greylock, looking for crazy new things. ーTwitterより抜粋
 
