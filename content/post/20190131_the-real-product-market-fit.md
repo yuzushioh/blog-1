@@ -2,6 +2,7 @@
 title: "The Real Product Market Fit(翻訳)"
 date: 2018-01-31T12:35:57+09:00
 draft: true
+author: "Yamotty"
 ---
 
 ※この記事はシリコンバレーの著名なスタートアップ・アクセラレーターであるY Combinatorが2016/6/27に投稿した「The Real Product Market Fit By Michael Seibel 」の翻訳記事です。

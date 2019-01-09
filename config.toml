@@ -1,5 +1,5 @@
 baseURL = "https://Yamotty.github.io"
-languageCode = "en-us"
+languageCode = "ja-jp"
 title = "Yamotty"
 publishDir = "public"  # 公開ファイルのディレクトリ名
 theme= "tale-hugo" # 使用するテーマ名
