@@ -1,0 +1,50 @@
+<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		{{- if eq .URL "/" }}
+			<meta name="description" content="{{ .Site.Params.Description }}">
+		{{- else if .Description }}
+			<meta name="description" content="{{ .Description }}">
+		{{- end }}
+
+		<title>
+			{{- if eq .URL "/" }}
+				{{ .Site.Title }}
+			{{- else }}
+				{{ .Title }} | {{ .Site.Title }}
+			{{- end }} (@yamotty3)
+		</title>
+
+		<!-- Twitter Card Metas -->
+		  <meta name="twitter:card" content="summary" />
+		  <meta name="og:title" content="{{ .Title }} | {{ .Site.Title }}" />
+		  <meta name="og:description" content="{{ if .IsPage }}{{ .Summary }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
+		  <meta name="og:image" content="{{ .Site.BaseURL }}{{ .Params.eyecatch }}" />
+		  <meta name="twitter:url" content="{{ .Permalink }}" />
+		  <meta name="twitter:site" content="@yamotty3" />
+		  <meta name="twitter:creator" content="@yamotty3" />
+
+
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-5NHX6BK');</script>
+
+		<!-- CSS -->
+		{{- $inServerMode	:= .Site.IsServer }}
+		{{- $cssTarget		:= "css/style.css" }}
+		{{- $cssOptions		:= cond ($inServerMode) (dict "targetPath" $cssTarget "enableSourceMap" true) (dict "targetPath" $cssTarget "outputStyle" "compressed") }}
+		{{- $style			:= resources.Get "scss/tale.scss" | toCSS $cssOptions }}
+  		<link rel="stylesheet" href="{{ $style.RelPermalink }}">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700">
+
+		<!-- Favicon -->
+		<link rel="icon" type="image/png" sizes="32x32" href="{{ "images/favicon-32x32.png" | relURL }}">
+		<link rel="icon" type="image/png" sizes="16x16" href="{{ "images/favicon-16x16.png" | relURL }}">
+		<link rel="apple-touch-icon" sizes="180x180" href="{{ "images/apple-touch-icon.png" | relURL }}">
+
+		<!-- RSS -->
+		<link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+	</head>
