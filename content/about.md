@@ -2,7 +2,7 @@
 title: "#about"
 date: 2015-01-01T05:22:32+09:00
 draft: false
-eyecatch: "images/profile.png"
+eyecatch: "/images/profile.png"
 ---
 
 Yamottyの自己紹介です。<!--more-->
