@@ -1,6 +1,6 @@
 ---
 title: "The Real Product Market Fit(翻訳)"
-date: 2018-01-31T12:35:57+09:00
+date: 2018-01-09T12:35:57+09:00
 draft: true
 author: "Yamotty"
 categories: ["Product"]
