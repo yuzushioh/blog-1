@@ -5,7 +5,7 @@ draft: true
 author: "Yamotty"
 categories: ["Essay"]
 description: "最近では、平凡な毎日の中で「能動的に愛するという態度」を通じて、「愛するということ」の難しさを知り、そして自分自身が人間としての「初めての成長」をすることができているのでは、と思い立つ様になった。"
-eyecatch: "/images/profile.png"
+eyecatch: "/images/top-ogp.jpg"
 tags: ["Essay","Family"]
 ---
 
