@@ -9,8 +9,6 @@ tags: ["Product", "KPI","metrics"]
 categories: ["Product"]
 ---
 
-![metrics_001](/images/metrics_001.png)
-
 時間ができると、スタートアップ関係者御用達と思われるTaka Umadaさんの[Medium](https://medium.com/@tumada)や[Slideshare](http://www.slideshare.net/takaumada/presentations)をよく読み返している。<!--more-->
 
 TakaさんはMicrosoftのプロダクトマネージャーとしてのキャリアをもち、現在は東京大学本郷テックガレージにいらっしゃるとのこと。
