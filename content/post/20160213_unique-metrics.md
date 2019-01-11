@@ -9,9 +9,9 @@ tags: ["Product", "KPI","metrics"]
 categories: ["Product"]
 ---
 
-時間ができると、スタートアップ関係者御用達と思われるTaka Umadaさんの[Medium](https://medium.com/@tumada)や[Slideshare](http://www.slideshare.net/takaumada/presentations)をよく読み返している。<!--more-->
+時間ができると、現在は東京大学本郷テックガレージのTaka Umadaさんの記事をよく読み返している。<!--more-->
 
-TakaさんはMicrosoftのプロダクトマネージャーとしてのキャリアをもち、現在は東京大学本郷テックガレージにいらっしゃるとのこと。
+馬田さんはMicrosoftのプロダクトマネージャーとしてのキャリアをもつ。
 彼の資料は、世界で最も成功しているスタートアップ養成所である「Y combinator」が行っている”How to Start a Startup"という講義の資料を日本語に翻訳し、かつ彼自身の視点を加えた非常に骨太なものが多い。僕がよく見返しているのは以下の3つの資料だ。
 
 1. [スタートアップのお金と指標入門講座：ユニットエコノミクス (Unit Economics) — CAC & LTV](https://medium.com/@tumada/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%AE%E3%81%8A%E9%87%91%E3%81%A8%E6%8C%87%E6%A8%99%E5%85%A5%E9%96%80%E8%AC%9B%E5%BA%A7-%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88%E3%82%A8%E3%82%B3%E3%83%8E%E3%83%9F%E3%82%AF%E3%82%B9-unit-economics-cac-ltv-53112185fbcd)
