@@ -1,36 +1,43 @@
 <head>
 		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="format-detection" content="telephone=no">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="author" content="Yamotty">
+		<!-- meta tags -->
 		{{- if eq .URL "/" }}
-			<meta name="description" content="{{ .Site.Params.Description }}">
-		{{- else if .Description }}
-			<meta name="description" content="{{ .Description }}">
+				<title>{{ .Site.Title }} (@yamotty3)</title>
+				<meta name="description" content="Yamotty(@yamotty3)のBlog">
+				<meta property="og:title" content="{{ .Site.Title }} (@yamotty3)" />
+				<meta property="og:description" content="Yamotty(@yamotty3)のBlog">
+				<meta property="og:type" content="website">
+				<meta property="og:image" content="https://yamotty.github.io/images/top-ogp.jpg">
+		{{- else }}
+				<title>{{ .Title }} | {{ .Site.Title }} (@yamotty3)</title>
+				<meta name="description" content="{{ .Description }}">
+				<meta property="og:title" content="{{ .Title }} | {{ .Site.Title }} (@yamotty3)" />
+				<meta property="og:description" content="{{ .Description }}">
+				<meta property="og:type" content="article">
+				<meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.eyecatch }}">
 		{{- end }}
-
-		<title>
-			{{- if eq .URL "/" }}
-				{{ .Site.Title }}
-			{{- else }}
-				{{ .Title }} | {{ .Site.Title }}
-			{{- end }} (@yamotty3)
-		</title>
-
-		<!-- Twitter Card Metas -->
-		  <meta name="twitter:card" content="summary_large_image" />
-			<!-- トップと記事で分岐 -->
-			{{- if eq .URL "/" }}
-				<meta name="og:title" content="{{ .Site.Title }} (@yamotty3)" />
-				<meta name="og:description" content="Yamotty(@yamotty3)のBlog">
-				<meta name="og:image" content="https://yamotty.github.io/images/top-ogp.jpg">
-			{{- else }}
-				<meta name="og:title" content="{{ .Title }} | {{ .Site.Title }} (@yamotty3)" />
-				<meta name="og:description" content="{{ .Description }}">
-				<meta name="og:image" content="{{ .Site.BaseURL }}{{ .Params.eyecatch }}">
-			{{- end }}
-			<meta name="twitter:url" content="{{ .Permalink }}">
-		  <meta name="twitter:site" content="@yamotty3">
-		  <meta name="twitter:creator" content="@yamotty3">
-
+		<!-- OGP -->
+		<meta property="og:site_name" content="{{ .Site.Title }} (@yamotty3)">
+		<!-- トップと記事で分岐 -->
+		{{- if eq .URL "/" }}
+			<meta name="og:title" content="{{ .Site.Title }} (@yamotty3)" />
+			<meta name="og:description" content="Yamotty(@yamotty3)のBlog">
+			<meta name="og:image" content="https://yamotty.github.io/images/top-ogp.jpg">
+		{{- else }}
+			<meta name="og:title" content="{{ .Title }} | {{ .Site.Title }} (@yamotty3)" />
+			<meta name="og:description" content="{{ .Description }}">
+			<meta name="og:image" content="{{ .Site.BaseURL }}{{ .Params.eyecatch }}">
+		{{- end }}
+		<!--  SNS用設定 -->
+		<meta property="fb:admins" content="106561682763467" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:url" content="{{ .Permalink }}">
+		<meta name="twitter:site" content="@yamotty3">
+		<meta name="twitter:creator" content="@yamotty3">
 
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 			<script async src="https://www.googletagmanager.com/gtag/js?id=UA-46662008-3"></script>
