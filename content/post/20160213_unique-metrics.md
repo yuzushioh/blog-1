@@ -3,7 +3,7 @@ date: 2016-02-13T10:16:12+09:00
 title: "自社のメトリクスを持とう"
 draft: false
 author: "Yamotty"
-description: "「メトリクス」について簡単、見解をまとめてみた。"
+description: "「メトリクス」について簡単に、見解をまとめてみた。"
 eyecatch: "/images/metrics_001.png"
 tags: ["Product", "KPI","metrics"]
 categories: ["Product"]
@@ -12,13 +12,13 @@ categories: ["Product"]
 ![metrics_001](/images/metrics_001.png)
 
 時間ができると、スタートアップ関係者御用達と思われるTaka Umadaさんの[Medium](https://medium.com/@tumada)や[Slideshare](http://www.slideshare.net/takaumada/presentations)をよく読み返している。<!--more-->
+
 TakaさんはMicrosoftのプロダクトマネージャーとしてのキャリアをもち、現在は東京大学本郷テックガレージにいらっしゃるとのこと。
 彼の資料は、世界で最も成功しているスタートアップ養成所である「Y combinator」が行っている”How to Start a Startup"という講義の資料を日本語に翻訳し、かつ彼自身の視点を加えた非常に骨太なものが多い。僕がよく見返しているのは以下の3つの資料だ。
 
 1. [スタートアップのお金と指標入門講座：ユニットエコノミクス (Unit Economics) — CAC & LTV](https://medium.com/@tumada/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%AE%E3%81%8A%E9%87%91%E3%81%A8%E6%8C%87%E6%A8%99%E5%85%A5%E9%96%80%E8%AC%9B%E5%BA%A7-%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88%E3%82%A8%E3%82%B3%E3%83%8E%E3%83%9F%E3%82%AF%E3%82%B9-unit-economics-cac-ltv-53112185fbcd)
 2. [「御社の独自のメトリクスは何ですか？」あるいはプロダクトのビジョン – Taka Umada – Medium](https://medium.com/@tumada/%E5%BE%A1%E7%A4%BE%E3%81%AE%E7%8B%AC%E8%87%AA%E3%81%AE%E3%83%A1%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B-%E3%81%82%E3%82%8B%E3%81%84%E3%81%AF%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%81%AE%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3-6a2f1d802881)
 3. [とあるスタートアップの評価指標（Slide Share）](http://www.slideshare.net/takaumada/startup-metrics-survive)
-[http://www.slideshare.net/takaumada/startup-metrics-survive/:embed:cite]
 
 これらに共通するキーワード「メトリクス」について簡単にまとめておきたい。
 
@@ -91,10 +91,10 @@ Taka氏の資料にて、メトリクスにまつわる注意点として3点上
 
 PVという指標はあらゆるメディアにおいて今もこれからも重要なものであり続けると思うが、
 
-```
-「あなたの会社のメトリクスは？」
-「PVです！」
-```
+
+>「あなたの会社のメトリクスは？」
+>「PVです！」
+
 
 というやり取りがあるとするなら、それは自社の課題を正確に把握できていない証拠だろう。<br>
 `PV`という指標は絶対値として、また相対値としてサイトやサービスのパワーを示すものではあるが、それだけでは自分の現在の居場所を知ることも、次に起こすべき行動を特定することも、密なコミュニケーションを取ることもできない。
