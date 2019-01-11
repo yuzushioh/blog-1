@@ -16,12 +16,12 @@
 		</title>
 
 		<!-- Twitter Card Metas -->
-		  <meta name="twitter:card" content="summary_large_image">
+		  <meta name="twitter:card" content="summary_large_image" />
 		  <meta name="og:title" content="{{- if eq .URL "/" }}{{ .Site.Title }}{{- else }}{{ .Title }} | {{ .Site.Title }}{{- end }} (@yamotty3)" />
 		  <meta name="og:description" content="{{ if .IsPage }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 			<!-- imageをコンテンツとトップで分岐 -->
 			{{- if eq .URL "/" }}
-				<meta name="og:image" content="https://yamotty.github.io/images/profile.png">
+				<meta name="og:image" content="https://yamotty.github.io/images/top-ogp.jpg">
 			{{- else }}
 				<meta name="og:image" content="{{ .Site.BaseURL }}{{ .Params.eyecatch }}">
 			{{- end }}
