@@ -16,9 +16,9 @@
 		</title>
 
 		<!-- Twitter Card Metas -->
-		  <meta name="twitter:card" content="summary" />
+		  <meta name="twitter:card" content="summary_large_image" />
 		  <meta name="og:title" content="{{- if eq .URL "/" }}{{ .Site.Title }}{{- else }}{{ .Title }} | {{ .Site.Title }}{{- end }} (@yamotty3)" />
-		  <meta name="og:description" content="{{ if .IsPage }}{{ .Summary }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
+		  <meta name="og:description" content="{{ if .IsPage }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
 		  <meta name="og:image" content="{{ .Site.BaseURL }}{{ .Params.eyecatch }}" />
 		  <meta name="twitter:url" content="{{ .Permalink }}" />
 		  <meta name="twitter:site" content="@yamotty3" />

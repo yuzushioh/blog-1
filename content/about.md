@@ -7,13 +7,13 @@ eyecatch: "/images/profile.png"
 
 Yamottyの自己紹介です。<!--more-->
 
-# リンク
+## リンク
 
 - [Twitter](https://twitter.com/yamotty3)
 - [facebook](https://www.facebook.com/Yamotty)
 - [Github](https://github.com/Yamotty)
 
-# 取材記事
+## 取材記事
 
 過去に取材いただいた記事。
 
