@@ -3,7 +3,7 @@ date: 2016-02-13T10:16:12+09:00
 title: "自社のメトリクスを持とう"
 draft: false
 author: "Yamotty"
-description: "「メトリクス」について簡単にまとめておきたい。"
+description: "「メトリクス」について簡単、見解をまとめてみた。"
 eyecatch: "/images/metrics_001.png"
 tags: ["Product", "KPI","metrics"]
 categories: ["Product"]
@@ -11,7 +11,7 @@ categories: ["Product"]
 
 ![metrics_001](/images/metrics_001.png)
 
-時間ができると、スタートアップ関係者御用達と思われるTaka Umadaさんの[Medium](https://medium.com/@tumada)や[Slideshare](http://www.slideshare.net/takaumada/presentations)をよく読み返している。
+時間ができると、スタートアップ関係者御用達と思われるTaka Umadaさんの[Medium](https://medium.com/@tumada)や[Slideshare](http://www.slideshare.net/takaumada/presentations)をよく読み返している。<!--more-->
 TakaさんはMicrosoftのプロダクトマネージャーとしてのキャリアをもち、現在は東京大学本郷テックガレージにいらっしゃるとのこと。
 彼の資料は、世界で最も成功しているスタートアップ養成所である「Y combinator」が行っている”How to Start a Startup"という講義の資料を日本語に翻訳し、かつ彼自身の視点を加えた非常に骨太なものが多い。僕がよく見返しているのは以下の3つの資料だ。
 
