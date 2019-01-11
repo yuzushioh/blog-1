@@ -42,7 +42,7 @@ a {
   text-decoration: none; }
 
 blockquote {
-  border-left: 0.8rem solid #e5e5e5;
+  border-left: 0.7rem solid #e5e5e5;
   color: #979797;
   margin: .8rem 0;
   padding: .8rem 1.2rem; }
