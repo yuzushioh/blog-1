@@ -19,8 +19,13 @@
 		  <meta name="twitter:card" content="summary_large_image" />
 		  <meta name="og:title" content="{{- if eq .URL "/" }}{{ .Site.Title }}{{- else }}{{ .Title }} | {{ .Site.Title }}{{- end }} (@yamotty3)" />
 		  <meta name="og:description" content="{{ if .IsPage }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
-		  <meta name="og:image" content="{{ .Site.BaseURL }}{{ .Params.eyecatch }}" />
-		  <meta name="twitter:url" content="{{ .Permalink }}" />
+			<!-- imageをコンテンツとトップで分岐 -->
+			{{- if eq .URL "/" }}
+				<meta name="og:image" content="//yamotty.github.io/images/profile.png">
+			{{- else }}
+				<meta name="og:image" content="{{ .Site.BaseURL }}{{ .Params.eyecatch }} /">
+			{{- end }}
+			<meta name="twitter:url" content="{{ .Permalink }}" />
 		  <meta name="twitter:site" content="@yamotty3" />
 		  <meta name="twitter:creator" content="@yamotty3" />
 
