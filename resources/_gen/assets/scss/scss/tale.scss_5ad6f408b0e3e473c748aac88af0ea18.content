@@ -118,8 +118,8 @@ pre code {
     margin: 0 auto 2.5rem;
     width: 7rem; }
   .post p {
-    font-size: 1.3rem;
-    margin: 0 0 1.5rem;
+    font-size: 1.15rem;
+    margin: 0 0 1.6rem;
     text-align: justify; }
   .post a:hover {
     text-decoration: underline; }
