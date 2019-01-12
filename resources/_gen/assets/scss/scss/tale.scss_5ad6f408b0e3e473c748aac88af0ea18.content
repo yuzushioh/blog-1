@@ -44,7 +44,7 @@ a {
 blockquote {
   border-left: 0.7rem solid #e5e5e5;
   color: #979797;
-  margin: .8rem .1;
+  margin: .8rem 1rem;
   padding: .8rem 1.2rem; }
   blockquote p:last-child {
     margin-bottom: 0; }
