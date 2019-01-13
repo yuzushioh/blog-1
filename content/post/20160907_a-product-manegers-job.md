@@ -5,7 +5,7 @@ draft: false
 author: "Yamotty"
 categories: ["Product"]
 description: "この記事は2013年7月にMediumへ投稿されたGraylockのパートナーであるJoshによる「A Product Manager's Job」の翻訳記事です。"
-eyecatch: "/images/top-ogp.jpg"
+eyecatch: "/images/product-manager-job_ogp.jpg"
 tags: ["product Management"]
 ---
 
@@ -18,10 +18,13 @@ tags: ["product Management"]
 > Guy. I have worked on Twitter, Facebook Connect, Zazzle, LinkedIn, RealPlayer. Partner at Greylock, looking for crazy new things. ーTwitterより抜粋
 
 2年前の記事ですが、インターネット業界においてPMという定義の難しい職種がより一般的であるUSにおいて、その役割をかなり明確に定義した記事です。
-今回「ぜひ日本の悩めるPM向けに翻訳・紹介させてくれ」と頼んだ所、快く了解いただいたので拙訳で恐縮ながら全文意訳してみました。
-ちなみに僕の英語レベルは商社時代の1年間ビジネス英語を使った程度のぺーぺーで恥ずかしいレベルなので、訳のミスの指摘などいただけると嬉しいです。
+
+「ぜひ日本の悩めるPM向けに翻訳・紹介させてくれ」と頼んだ所、快く了解いただいたので拙訳で恐縮ながら全文意訳してみました。
+
 
 ---
+
+![product-manager-job](/images/product-manager-job_ogp.png)
 
 ## A Product Manager's Job
 プロダクトマネジメントは、あらゆる企業においてその求められる役割が異なることから、極めてその定義が難しい職種の一つです。私は数名のPMにちかい仕事をする友人との間で「プロダクトマネージャは？何ですか」について議論してきました。その内容をキャプチャし、共有したいと思います。
