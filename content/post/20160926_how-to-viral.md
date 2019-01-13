@@ -1,6 +1,6 @@
 ---
 date: 2016-09-26T06:35:27+09:00
-title: "バイラル（口コミ）をおこす5つの方法"
+title: "バイラル（口コミ）をおこす5つの方法(翻訳)"
 draft: false
 categories: ["Product", ""]
 description: "この記事はGleylockのパートナー、Josh Elmanによる『The Five Types of Virality]』の翻訳記事だ。"
