@@ -4,7 +4,7 @@ title: "プロダクトマネージャーのキャリアはいかにして始ま
 draft: false
 categories: ["Product", ""]
 description: "この記事は、僕自身のプロダクトマネージャーとしてのキャリアがどうやって始まったのかを綴ったエッセイだ。"
-eyecatch: "images/start_pm.jpg"
+eyecatch: "/images/start_pm.jpg"
 tags: ["Product", "Essay"]
 author: "Yamotty"
 ---
