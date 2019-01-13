@@ -4,7 +4,7 @@ title: "いかにスタートアップのアイデアを得るか(翻訳)"
 draft: false
 categories: ["Product", ""]
 description: ""
-eyecatch: "/images/top-ogp.jpg"
+eyecatch: "/images/how-to-get-startup-ideas_ogp.png"
 tags: ["Product", ""]
 author: "Yamotty"
 ---
