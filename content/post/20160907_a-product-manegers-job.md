@@ -4,7 +4,7 @@ date: 2016-09-07T04:36:52+09:00
 draft: false
 author: "Yamotty"
 categories: ["Product"]
-description: "この記事は2013年7月にMediumへ投稿されたGraylockのパートナーであるJoshによる「A Product Manager's Job」の翻訳記事です。"
+description: "この記事は2013年7月にMediumへ投稿されたGraylockのパートナーであるJoshによる「A Product Manager's Job」の翻訳記事だ。"
 eyecatch: "/images/product-manager-job_ogp.jpg"
 tags: ["product Management"]
 ---

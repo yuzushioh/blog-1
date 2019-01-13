@@ -3,7 +3,7 @@ date: 2017-11-27T05:11:48+09:00
 title: "いかにスタートアップのアイデアを得るか(翻訳)"
 draft: false
 categories: ["Product", ""]
-description: ""
+description: "この記事は2012年11月にポール・グレアムが自身のBlogへ投稿した『How to Get Startup Ideas』というエッセイの翻訳記事だ。"
 eyecatch: "/images/how-to-get-startup-ideas_ogp.png"
 tags: ["Product", ""]
 author: "Yamotty"
