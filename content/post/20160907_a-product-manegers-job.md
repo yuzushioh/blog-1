@@ -9,7 +9,7 @@ eyecatch: "/images/top-ogp.jpg"
 tags: ["product Management"]
 ---
 
-この記事は2013年7月にMediumへ投稿されたGraylockのパートナーであるJoshによる「A Product Manager's Job」の翻訳記事です。
+この記事は2013年7月にMediumへ投稿されたGraylockのパートナーであるJoshによる「A Product Manager's Job」の翻訳記事だ。
 
 <!--more-->
 

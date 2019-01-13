@@ -9,7 +9,7 @@ eyecatch: "/images/the_real_product_market_fit.png"
 tags: ["product Management"]
 ---
 
-※この記事はシリコンバレーの著名なスタートアップ・アクセラレーターであるY Combinatorが2016/6/27に投稿した「The Real Product Market Fit By Michael Seibel 」の翻訳記事です。
+※この記事はシリコンバレーの著名なスタートアップ・アクセラレーターであるY Combinatorが2016/6/27に投稿した「The Real Product Market Fit By Michael Seibel 」の翻訳記事だ。
 
 <!--more-->
 
