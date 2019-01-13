@@ -1,5 +1,5 @@
 ---
-title: "A Product Manager’s Job(翻訳)"
+title: "プロダクトマネージャーの仕事(翻訳)"
 date: 2016-09-07T04:36:52+09:00
 draft: false
 author: "Yamotty"

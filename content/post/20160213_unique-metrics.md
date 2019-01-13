@@ -1,6 +1,6 @@
 ---
 date: 2016-02-13T10:16:12+09:00
-title: "自社のメトリクスを持とう"
+title: "KPIより自社のメトリクスを持とう"
 draft: false
 author: "Yamotty"
 description: "「メトリクス」について簡単に、見解をまとめてみた。"
