@@ -4,7 +4,7 @@ title: "{{ replace .Name "-" " " | title }}"
 draft: true
 categories: ["Product", ""]
 description: ""
-eyecatch: "/images/top-ogp.jpg"
+eyecatch: "/images/top-ogp.png"
 tags: ["Product", ""]
 author: "Yamotty"
 ---
