@@ -2,10 +2,10 @@
 date: 2018-05-21T07:47:55+09:00
 title: "無思考・意思決定・納得"
 draft: false
-categories: ["Essay", ""]
+categories: ["Essay"]
 description: "そもそも思考は何のためにするのか。それは未来の自分の行動を変えるためではないだろうか。"
 eyecatch: "/images/making-decision.png"
-tags: ["Essay", ""]
+tags: ["Essay"]
 author: "Yamotty"
 ---
 

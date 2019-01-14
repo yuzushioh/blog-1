@@ -2,10 +2,10 @@
 date: 2018-05-29T07:04:47+09:00
 title: "Short Time Startup"
 draft: false
-categories: ["Product", ""]
+categories: ["Product"]
 description: "「100%仕事に使える時間が多くない」という前提を踏まえた上で、大事なのは具体的なスピードの出し方だと思っている。よく考えていることを3つまとめてみた。"
 eyecatch: "/images/short-time.jpg"
-tags: ["Product", ""]
+tags: ["Product"]
 author: "Yamotty"
 ---
 

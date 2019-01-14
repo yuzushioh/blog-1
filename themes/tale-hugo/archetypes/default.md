@@ -2,9 +2,9 @@
 date: {{ .Date }}
 title: "{{ replace .Name "-" " " | title }}"
 draft: true
-categories: ["Product", ""]
+categories: ["Product"]
 description: ""
-eyecatch: "/images/top-ogp.png"
+eyecatch: "/images/top-ogp.jpg"
 tags: ["Product", ""]
 author: "Yamotty"
 ---

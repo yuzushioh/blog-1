@@ -2,7 +2,7 @@
 date: 2018-06-24T07:28:24+09:00
 title: "価値観の共通化と余白"
 draft: false
-categories: ["Essay", ""]
+categories: ["Essay"]
 description: "「過度に具体的な価値観はチームを弱くする、余白が重要」と最近考えており、その言語化にチャレンジしてみたい。"
 eyecatch: "/images/value-sharing.png"
 tags: ["Team", ""]
