@@ -5,7 +5,7 @@ draft: false
 categories: ["Essay"]
 description: "「過度に具体的な価値観はチームを弱くする、余白が重要」と最近考えており、その言語化にチャレンジしてみたい。"
 eyecatch: "/images/value-sharing.png"
-tags: ["Team", ""]
+tags: ["Team"]
 author: "Yamotty"
 ---
 

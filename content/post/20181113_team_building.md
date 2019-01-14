@@ -2,10 +2,10 @@
 date: 2018-11-13T04:46:34+09:00
 title: "スループット最大化を中心とした評価設計を考える"
 draft: false
-categories: ["Team", ""]
+categories: ["Team"]
 description: "ジョインしてくれたメンバーがきちんと化学反応し、時折うねる方針に対応しながらもスループットを最大化するにはどういった仕組みを設計すべきなのだろうか。この目下の関心事について考えてみた。"
 eyecatch: "/images/throughput_ogp.jpeg"
-tags: ["Team", ""]
+tags: ["Team"]
 author: "Yamotty"
 ---
 

@@ -2,10 +2,10 @@
 date: 2018-09-12T05:27:31+09:00
 title: "制約と誓約"
 draft: false
-categories: ["Essay", ""]
+categories: ["Essay"]
 description: "可能性の探り方、すごく難しいなと思っている。仕事にしろ勉強にしろ、10代にしろ40代にしろ、自分の可能性を判断するという局面は誰にでも訪れ、そして難しいものでないだろうか。"
 eyecatch: "/images/restriction.png"
-tags: ["Essay", ""]
+tags: ["Essay"]
 author: "Yamotty"
 ---
 

@@ -5,7 +5,7 @@ draft: false
 categories: ["Product", ""]
 description: "この記事は2012年11月にポール・グレアムが自身のBlogへ投稿した『How to Get Startup Ideas』というエッセイの翻訳記事だ。"
 eyecatch: "/images/how-to-get-startup-ideas_ogp.png"
-tags: ["Product", ""]
+tags: ["Product"]
 author: "Yamotty"
 ---
 

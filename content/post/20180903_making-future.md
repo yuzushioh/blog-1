@@ -2,10 +2,10 @@
 date: 2018-09-13T06:12:35+09:00
 title: "未来に生き、欠けているものを創る"
 draft: false
-categories: ["Product", ""]
+categories: ["Product"]
 description: "「どんな未来に、どのくらいの時間軸で仕込むのか」について。"
 eyecatch: "/images/making-future.jpg"
-tags: ["Product", ""]
+tags: ["Product"]
 author: "Yamotty"
 ---
 

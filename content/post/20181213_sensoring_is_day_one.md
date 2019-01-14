@@ -2,10 +2,10 @@
 date: 2018-12-13T05:47:10+09:00
 title: "Sensoring is Day One."
 draft: false
-categories: ["Product", ""]
+categories: ["Product"]
 description: "スマホから変わる世界」という未来へ深い洞察が込められた檄文に感化された僕も自分なりに「未来はどこへ向かうか」を考え文字に落とそうと思い筆をとることにした。"
 eyecatch: "/images/sensor_001.png"
-tags: ["Product", ""]
+tags: ["Product"]
 author: "Yamotty"
 ---
 
