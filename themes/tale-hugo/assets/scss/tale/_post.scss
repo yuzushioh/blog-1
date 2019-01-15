@@ -6,6 +6,7 @@
     font-family: $serif-secondary;
     letter-spacing: 0.5px;
     text-align: center;
+    font-size: 1.1rem;
 
     span {
       font-style: italic;
@@ -15,7 +16,7 @@
   &-title {
     color: $default-shade;
     font-family: $yu-gothic;
-    font-size: 3rem;
+    font-size: 2.5rem;
     margin: 0.8rem 0;
     text-align: center;
   }
@@ -28,8 +29,7 @@
   }
 
   p {
-    font-size: 1.15rem;
-    margin: 0 0 1.6rem;
+    margin: 0 0 1.8rem;
     text-align: justify;
   }
 
